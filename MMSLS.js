@@ -20,7 +20,7 @@ const MMSLS = [
  */
 const MMSLS = [
     
-    "https://www.maimemo.com/share/page?uid=20175679&pid=65b697f5ebb4c0707ed617328a473884&tid=8459314f6655c08f2023fdd413f7fc",
+    "1111",
 
 
   ]
